@@ -1,0 +1,1 @@
+This site contains html file with some recipes. That's all
