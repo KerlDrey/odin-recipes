@@ -1,1 +1,1 @@
-This site contains html file with some recipes. That's all
+This site contains html file with some recipes. Wihtin this project i want to show some of my skills connected with HTML
