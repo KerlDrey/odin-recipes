@@ -1,0 +1,41 @@
+body{
+    padding: 1em 10em;
+    background-color: #D5FFF3;
+    font-family: Verdana, sans-serif;
+}
+
+a {
+    outline: none;
+    text-decoration: none;
+}
+
+a:link {
+    color: #1E5AA8;
+}
+
+a:hover {
+    background-color: #46cc2f;
+    border-bottom: 1px solid;
+}
+
+a:visited {
+  color: #163F7A;
+}
+
+/* Заголовок страницы */
+.title {
+    color: #34495E;
+}
+
+/* Main div where stored all available content */
+.main-content {
+    background-color: #BFDBF7;
+    border-radius: 10px;
+    padding: 1em 4em;
+    height: 98vh;
+}
+
+/* Recipe table */
+.recipes-table li {
+    margin-bottom: 0.5em;
+}
